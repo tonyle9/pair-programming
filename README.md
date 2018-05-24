@@ -1,4 +1,4 @@
-# Effective Pair Programming
+# Effective Pair Programming for Unbelievers
 
 _“Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.” - Wikipedia_
 
@@ -17,6 +17,11 @@ It turns out many developers sit together behind one desk trying to make it work
 It is important to understand HOW and WHEN to do pair programming.
 
 The closest function to pair-programming is pilot and co-pilot workflow, and it is very interesting because they also have a guideline for it. Where half of it is to make sure it is efficient and effective, and the other half is to ensure that it works for everybody because there has to be disciplined cooperation to make it work for everyone with different soft skills, personality, and in different environments.
+
+@TODOs:
+
+* [ ] Add remote pair programming section.
+* [ ] Add link to good articles/resources on the internet.
 
 ## Index
 
